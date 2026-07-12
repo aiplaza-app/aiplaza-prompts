@@ -5,7 +5,10 @@ Open **example prompts** for writing, marketing, business, productivity, and cod
 Use them with ChatGPT, Claude, Gemini, Grok — or try the full multi-model experience on **[AI Plaza](https://aiplaza.app)**.
 
 [![Try on AI Plaza](https://img.shields.io/badge/Try%20live-aiplaza.app-4f46e5?style=for-the-badge)](https://aiplaza.app/chat)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/aiplaza-app/aiplaza-prompts?style=for-the-badge)](https://github.com/aiplaza-app/aiplaza-prompts/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+**Repo:** [github.com/aiplaza-app/aiplaza-prompts](https://github.com/aiplaza-app/aiplaza-prompts) · **Org:** [aiplaza-app](https://github.com/aiplaza-app)
 
 ## Why this repo?
 

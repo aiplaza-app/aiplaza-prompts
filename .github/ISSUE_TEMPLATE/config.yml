@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Try AI Plaza
+    url: https://aiplaza.app/chat
+    about: Use multi-model chat and scenario tools live.
+  - name: Product docs
+    url: https://aiplaza.app/docs
+    about: Guides for AI Plaza (not this prompt gallery).

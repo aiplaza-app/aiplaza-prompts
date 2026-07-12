@@ -1,0 +1,44 @@
+name: Prompt idea
+description: Suggest a new educational prompt for the gallery
+title: "[Prompt] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Prompt name
+      placeholder: e.g. Customer Support Reply
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - writing
+        - marketing
+        - business
+        - productivity
+        - coding
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: What problem does this prompt solve?
+    validations:
+      required: true
+  - type: textarea
+    id: draft
+    attributes:
+      label: Draft system prompt (optional)
+      description: Keep it generic and educational — no secrets or proprietary product internals.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This does not include API keys, customer data, or private product source.
+          required: true
