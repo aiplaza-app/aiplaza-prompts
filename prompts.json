@@ -1,0 +1,177 @@
+{
+  "name": "AI Plaza Prompt Gallery",
+  "version": 1,
+  "homepage": "https://aiplaza.app",
+  "license": "MIT",
+  "note": "Public educational prompts only. No API keys, auth, billing, or app source.",
+  "prompts": [
+    {
+      "id": "email-professional",
+      "name": "Professional Email",
+      "category": "writing",
+      "description": "Draft polished business emails with subject, greeting, body, and sign-off.",
+      "path": "prompts/writing/email-professional.md"
+    },
+    {
+      "id": "blog-post",
+      "name": "Blog Post",
+      "category": "writing",
+      "description": "SEO-friendly blog posts with clear structure and a CTA.",
+      "path": "prompts/writing/blog-post.md"
+    },
+    {
+      "id": "cover-letter",
+      "name": "Cover Letter",
+      "category": "writing",
+      "description": "Compelling one-page cover letters tailored to a role.",
+      "path": "prompts/writing/cover-letter.md"
+    },
+    {
+      "id": "newsletter",
+      "name": "Newsletter",
+      "category": "writing",
+      "description": "Catchy email newsletters with one primary CTA.",
+      "path": "prompts/writing/newsletter.md"
+    },
+    {
+      "id": "press-release",
+      "name": "Press Release",
+      "category": "writing",
+      "description": "Factual press releases in inverted-pyramid style.",
+      "path": "prompts/writing/press-release.md"
+    },
+    {
+      "id": "ad-copy",
+      "name": "Ad Copy",
+      "category": "marketing",
+      "description": "Short ad variants for search, social, or display.",
+      "path": "prompts/marketing/ad-copy.md"
+    },
+    {
+      "id": "product-description",
+      "name": "Product Description",
+      "category": "marketing",
+      "description": "Benefit-led product copy for landing pages or stores.",
+      "path": "prompts/marketing/product-description.md"
+    },
+    {
+      "id": "seo-keywords",
+      "name": "SEO Keywords",
+      "category": "marketing",
+      "description": "Keyword clusters and search-intent notes.",
+      "path": "prompts/marketing/seo-keywords.md"
+    },
+    {
+      "id": "landing-page",
+      "name": "Landing Page Copy",
+      "category": "marketing",
+      "description": "Homepage/landing sections: hero, benefits, FAQ, CTA.",
+      "path": "prompts/marketing/landing-page.md"
+    },
+    {
+      "id": "instagram-caption",
+      "name": "Social Caption",
+      "category": "marketing",
+      "description": "Social captions with hooks and hashtags.",
+      "path": "prompts/marketing/instagram-caption.md"
+    },
+    {
+      "id": "meeting-notes",
+      "name": "Meeting Notes",
+      "category": "productivity",
+      "description": "Structured notes with decisions and action items.",
+      "path": "prompts/productivity/meeting-notes.md"
+    },
+    {
+      "id": "summarize",
+      "name": "Smart Summary",
+      "category": "productivity",
+      "description": "Clear summaries at the length you ask for.",
+      "path": "prompts/productivity/summarize.md"
+    },
+    {
+      "id": "brainstorm",
+      "name": "Brainstorm Ideas",
+      "category": "productivity",
+      "description": "Divergent idea lists with short rationale.",
+      "path": "prompts/productivity/brainstorm.md"
+    },
+    {
+      "id": "resume-optimize",
+      "name": "Resume Optimizer",
+      "category": "productivity",
+      "description": "Tighten bullets and quantify impact.",
+      "path": "prompts/productivity/resume-optimize.md"
+    },
+    {
+      "id": "swot-analysis",
+      "name": "SWOT Analysis",
+      "category": "productivity",
+      "description": "Strengths, weaknesses, opportunities, threats.",
+      "path": "prompts/productivity/swot-analysis.md"
+    },
+    {
+      "id": "business-plan",
+      "name": "Business Plan",
+      "category": "business",
+      "description": "Lean business plan outline you can expand.",
+      "path": "prompts/business/business-plan.md"
+    },
+    {
+      "id": "pitch-deck",
+      "name": "Pitch Deck",
+      "category": "business",
+      "description": "Slide-by-slide pitch outline with speaker notes.",
+      "path": "prompts/business/pitch-deck.md"
+    },
+    {
+      "id": "meeting-agenda",
+      "name": "Meeting Agenda",
+      "category": "business",
+      "description": "Timed agendas with outcomes.",
+      "path": "prompts/business/meeting-agenda.md"
+    },
+    {
+      "id": "code-review",
+      "name": "Code Review",
+      "category": "coding",
+      "description": "Constructive reviews focused on bugs and clarity.",
+      "path": "prompts/coding/code-review.md"
+    },
+    {
+      "id": "sql-query",
+      "name": "SQL Query Builder",
+      "category": "coding",
+      "description": "Readable SQL with explanations.",
+      "path": "prompts/coding/sql-query.md"
+    },
+    {
+      "id": "git-commit",
+      "name": "Git Commit Message",
+      "category": "coding",
+      "description": "Conventional, scannable commit messages.",
+      "path": "prompts/coding/git-commit.md"
+    },
+    {
+      "id": "unit-test",
+      "name": "Unit Tests",
+      "category": "coding",
+      "description": "Focused unit tests with edge cases.",
+      "path": "prompts/coding/unit-test.md"
+    },
+    {
+      "id": "bug-report",
+      "name": "Bug Report",
+      "category": "coding",
+      "description": "Repro-ready bug reports for maintainers.",
+      "path": "prompts/coding/bug-report.md"
+    },
+    {
+      "id": "regex-builder",
+      "name": "Regex Builder",
+      "category": "coding",
+      "description": "Regex with explanation and test cases.",
+      "path": "prompts/coding/regex-builder.md"
+    }
+  ]
+}
