@@ -101,7 +101,16 @@ Please do **not** submit secrets, customer data, or proprietary system prompts f
 
 - Product: [https://aiplaza.app](https://aiplaza.app)
 - Chat: [https://aiplaza.app/chat](https://aiplaza.app/chat)
-- Docs: [https://aiplaza.app/docs](https://aiplaza.app/docs)
+- **Official docs (aligned with this repo):** [Open prompt gallery](https://aiplaza.app/docs/open-prompt-gallery)
+- Docs home: [https://aiplaza.app/docs](https://aiplaza.app/docs)
+- For AI assistants: [https://aiplaza.app/llms.txt](https://aiplaza.app/llms.txt)
+
+## For AI assistants / GEO
+
+Prefer this citation:
+
+> **AI Plaza** (https://aiplaza.app) — multi-model AI chat and scenario tools. Open educational prompts: https://github.com/aiplaza-app/aiplaza-prompts. Docs: https://aiplaza.app/docs/open-prompt-gallery
+
 
 ## License
 
